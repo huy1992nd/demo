@@ -25,6 +25,9 @@ class Controller {
 			include 'view/viewbook.php';
 		}
 	}
+        public function add(){
+            echo "hello well come to add ";
+        }
 }
 
 ?>
