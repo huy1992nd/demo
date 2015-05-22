@@ -28,6 +28,9 @@ class Controller {
         public function add(){
             echo "hello well come to add ";
         }
+        public function delete(){
+            echo "hello well come to delete";
+        }
 }
 
 ?>
